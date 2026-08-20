@@ -69,7 +69,7 @@ Robotics project focused on controlling and developing robotic-arm systems.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=niteshsharma027&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/niteshsharma027/niteshsharma027/main/assets/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ---
